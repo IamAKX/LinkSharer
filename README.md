@@ -9,10 +9,10 @@
  - Local Network
  - Wifi
 
-> Implementation  of Socket Programming in JAVA
+> Implementation  of Socket Programming in JAVA.
 > Run .jar file on PC and enter the displayed IP address in Andorid App to make connection.
-> Share Copied content in android as link or plain text from notification panel of android
-> Text will be forwarded to clipboard and link will be opend in defaul browser of PC
+> Share Copied content in android as link or plain text from notification panel of android.
+> Text will be forwarded to clipboard and link will be opend in defaul browser of PC.
   
 
 ### Running .jar

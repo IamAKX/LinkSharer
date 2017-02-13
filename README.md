@@ -28,6 +28,8 @@ Running jar without associated terminal console
 $ nohup java -jar Link_Sharer.jar
 ```
 
+
+
 ##### Windows Environment
 #
 ```sh
